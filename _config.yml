@@ -1,3 +1,4 @@
 title: My Learning Blog
 description: Sharing my journey learning Github Pages
-theme: minima
+#theme: minima
+theme: slate
